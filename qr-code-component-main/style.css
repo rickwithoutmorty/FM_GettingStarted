@@ -47,4 +47,11 @@ body {
 
 p {
     text-align: center;
+    font-family: sans-serif;
+}
+
+.text-improve {
+    font-size: 22px;
+    font-weight: bold;
+    color: rgb(31, 49, 79);
 }
