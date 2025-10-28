@@ -14,7 +14,7 @@ body {
     display: flex;
     height: 499px;
     width: 320px;
-    border-radius: 10px;
+    border-radius: 15px;
     background-color: white;
 }
 
@@ -22,7 +22,6 @@ body {
     display: flex;
     flex-direction: column;
     margin: 16px;
-    border-radius: 10px;
 }
 
 .qr-area {
@@ -32,7 +31,7 @@ body {
 .qr-area img {
     height: 288px;
     width: 288px;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .text-area {
