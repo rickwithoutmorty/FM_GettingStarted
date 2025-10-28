@@ -10,6 +10,11 @@ body {
     align-items: center;
 }
 
+.center {
+    margin-top: 10vh;
+    background-color: black;
+}
+
 .qr-component {
     display: flex;
     height: 499px;
