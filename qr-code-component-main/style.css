@@ -61,3 +61,7 @@ p {
     line-height: 140%;
     color: rgb(104, 119, 141);
 }
+
+.attribution {
+    font-family: sans-serif;
+}
