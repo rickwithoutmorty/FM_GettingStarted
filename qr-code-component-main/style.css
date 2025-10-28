@@ -36,3 +36,15 @@ body {
     width: 288px;
     border-radius: 10px;
 }
+
+.text-area {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 8px;
+}
+
+p {
+    text-align: center;
+}
