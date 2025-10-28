@@ -41,7 +41,6 @@ body {
 .text-area {
     display: flex;
     flex-direction: column;
-    padding-top: 8px;
 }
 
 p {
@@ -50,19 +49,22 @@ p {
 }
 
 .text-improve {
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 900;
     letter-spacing: 0px;
     line-height: 120%;
     color: rgb(31, 49, 79);
+    height: 52px;
 }
 
 .text-scan {
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 300;
     letter-spacing: 0.2px;
     line-height: 140%;
     color: rgb(104, 119, 141);
+    height: 63px;
+    margin-top: -1px;
 }
 
 .attribution {
