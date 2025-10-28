@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(212, 224, 233);
+}
+
 #challenge-container {
     display: flex;
     height: 95vh;
@@ -10,11 +14,14 @@
     display: flex;
     height: 499px;
     width: 320px;
+    border-radius: 10px;
+    background-color: white;
 }
 
 .contentarea {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    margin: 16px;
+    border-radius: 10px;
     background-color: blue;
 }
