@@ -3,4 +3,18 @@
     height: 95vh;
     flex-direction: column;
     justify-content: space-between;
+    align-items: center;
+}
+
+.qr-component {
+    display: flex;
+    height: 499px;
+    width: 320px;
+}
+
+.contentarea {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: blue;
 }
