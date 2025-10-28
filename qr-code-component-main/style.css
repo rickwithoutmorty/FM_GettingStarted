@@ -1,1 +1,6 @@
-:root {background-color: blue;}
+#challenge-container {
+    display: flex;
+    height: 95vh;
+    flex-direction: column;
+    justify-content: space-between;
+}
